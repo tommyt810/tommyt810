@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tommyt810
+- 👋 Hi, I’m Tommy Thompson
 - 👀 I’m interested in Python, PyQT, Shell Scripting, generating documentation for open source projects
 - 🌱 I’m currently learning Python, PyQT, Sphinx, Shell Scripting
 - 💞️ I’m looking to collaborate on Python projects,and documentation for open souce projects
